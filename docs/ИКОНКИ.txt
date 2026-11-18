@@ -1,0 +1,4 @@
+Иконки в игре (оружие, доспехи, магия, существа, значки фишек и предметов) — набор Game-icons.net.
+Авторы иконок: Lorc, Delapouite и другие художники сайта; полный список — https://game-icons.net/about.html#authors
+Лицензия CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) — можно использовать и менять с указанием авторства.
+Набор собран скриптом tools/make-gicons.cjs из npm-пакета @iconify-json/game-icons.

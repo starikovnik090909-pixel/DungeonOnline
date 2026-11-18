@@ -1,0 +1,22 @@
+{
+  "name": "dicehall",
+  "version": "0.32.0",
+  "description": "Виртуальный стол для D&D 5e",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "server": "node server.js 7777",
+    "pack": "electron-packager . Dicehall --platform=win32 --arch=x64 --out=release --overwrite --icon=build/icon.ico --ignore=^/release --ignore=^/Dicehall-win32-x64 --ignore=^/docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ws": "^8.23.0"
+  },
+  "devDependencies": {
+    "electron": "45.3.2",
+    "@electron/packager": "^18.3.0"
+  },
+  "productName": "Dicehall"
+}

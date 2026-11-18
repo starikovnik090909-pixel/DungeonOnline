@@ -1,0 +1,7 @@
+node_modules/
+release/
+*.log
+table.json
+table.json.*
+# шрифты книги правил (Mookmania, Volbera, Nodesto): лицензия не разрешает раздавать
+dist/fonts/
